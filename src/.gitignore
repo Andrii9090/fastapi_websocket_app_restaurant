@@ -2,3 +2,5 @@
 logs.log
 alembic/versions
 .venv
+.idea
+.vscode
