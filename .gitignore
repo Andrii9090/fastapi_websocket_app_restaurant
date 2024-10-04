@@ -1,4 +1,4 @@
-.env
+src/.env
 logs.log
 alembic/versions
 .venv
